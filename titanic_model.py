@@ -3,8 +3,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier, export_text
 from sklearn.metrics import accuracy_score
 
-url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
-df = pd.read_csv(url)
+
+df = pd.read_csv('titanic.csv')
 
 
 df = df.drop(['PassengerId', 'Name', 'Ticket', 'Cabin'], axis=1)
