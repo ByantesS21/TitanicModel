@@ -11,7 +11,6 @@ This project applies end-to-end data preprocessing, feature engineering, and a s
 ## Repository Structure
 
 - **`titanic_model.py`** — The primary Python script handling data ingestion, preprocessing, model training, and performance evaluation.
-- **`Machine_Learning_Project_Report.docx`** — The detailed technical report documenting the methodology, results, and evaluation metrics.
 
 ## Requirements & Dependencies
 
