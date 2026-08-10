@@ -49,11 +49,7 @@ python generate_diagrams.py
 ## Model Visualizations
 
 **Decision Tree Logic:**
-!(decision_tree.png)
+decision_tree.png
 
 **Confusion Matrix:**
-!(confusion_matrix.png)
-
-## Author
-
-- **Byantes Galus** – (https://github.com/ByantesS21/TitanicModel)
+confusion_matrix.png
