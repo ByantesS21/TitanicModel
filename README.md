@@ -49,7 +49,7 @@ python generate_diagrams.py
 ## Model Visualizations
 
 **Decision Tree Logic:**
-!decision_tree.png
+![Decision Tree](decision_tree.png)
 
 **Confusion Matrix:**
-!confusion_matrix.png
+![Confusion Matrix](confusion_matrix.png)
